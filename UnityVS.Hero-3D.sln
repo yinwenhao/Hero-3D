@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Hero-3D.CSharp", "UnityVS.Hero-3D.CSharp.csproj", "{75102275-E392-AED2-956B-86BE46B6A60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Hero-3D.CSharp.Editor", "UnityVS.Hero-3D.CSharp.Editor.csproj", "{7A499BB8-410D-BD0F-84BD-378D65D9521B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75102275-E392-AED2-956B-86BE46B6A60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75102275-E392-AED2-956B-86BE46B6A60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75102275-E392-AED2-956B-86BE46B6A60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75102275-E392-AED2-956B-86BE46B6A60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A499BB8-410D-BD0F-84BD-378D65D9521B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A499BB8-410D-BD0F-84BD-378D65D9521B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A499BB8-410D-BD0F-84BD-378D65D9521B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A499BB8-410D-BD0F-84BD-378D65D9521B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
